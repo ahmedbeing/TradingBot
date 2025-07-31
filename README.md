@@ -30,3 +30,17 @@ TRADING_SYMBOL=XRPUSDT
 LEVERAGE=50
 EMAIL_SERVER=imap.gmail.com
 EMAIL_PORT=993
+
+
+🚀 Skills Demonstrated
+API Integration: Binance REST API, IMAP
+Real-time Processing: Email monitoring & parsing
+Financial Trading: Order execution, leverage management
+Error Handling: Robust exception management
+Configuration Management: Environment variables
+
+**⚠️ Disclaimer
+This project is for educational and portfolio demonstration purposes only.**
+
+**Portfolio project showcasing technical skills in API integration and automated trading systems.
+**
