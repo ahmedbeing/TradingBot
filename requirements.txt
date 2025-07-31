@@ -1,0 +1,5 @@
+python-binance
+python-dotenv
+imaplib2
+ratelimit
+binance-futures
