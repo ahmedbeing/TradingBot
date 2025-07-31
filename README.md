@@ -24,6 +24,10 @@ Automated cryptocurrency trading bot that executes trades based on email signals
 3. Executes corresponding trades on Binance Futures
 4. Supports any cryptocurrency pair with USDT
 
+```markdown
+## 🔗 TradingView Integration
+Originally designed to work with TradingView alerts - see [TradingView Integration Guide](docs/tradingview_integration.md) for details.
+
 ## 🔧 Configuration
 ```env
 TRADING_SYMBOL=XRPUSDT
