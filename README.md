@@ -32,12 +32,12 @@ EMAIL_SERVER=imap.gmail.com
 EMAIL_PORT=993
 ```
 
-🚀 Skills Demonstrated
-API Integration: Binance REST API, IMAP
-Real-time Processing: Email monitoring & parsing
-Financial Trading: Order execution, leverage management
-Error Handling: Robust exception management
-Configuration Management: Environment variables
+## 🚀 Skills Demonstrated
+- **API Integration**: Binance REST API, IMAP
+- **Real-time Processing**: Email monitoring & parsing
+- **Financial Trading**: Order execution, leverage management
+- **Error Handling**: Robust exception management
+- **Configuration Management**: Environment variables
 
 ## ⚠️ Disclaimer
 This project is for educational and portfolio demonstration purposes only.
