@@ -40,5 +40,5 @@ Error Handling: Robust exception management
 Configuration Management: Environment variables
 
 ## ⚠️ Disclaimer
-## This project is for educational and portfolio demonstration purposes only.
-## Portfolio project showcasing technical skills in API integration and automated trading systems.
+This project is for educational and portfolio demonstration purposes only.
+Portfolio project showcasing technical skills in API integration and automated trading systems.
