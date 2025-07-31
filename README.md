@@ -27,6 +27,7 @@ Automated cryptocurrency trading bot that executes trades based on email signals
 ```markdown
 ## 🔗 TradingView Integration
 Originally designed to work with TradingView alerts - see [TradingView Integration Guide](docs/tradingview_integration.md) for details.
+```
 
 ## 🔧 Configuration
 ```env
